@@ -1,0 +1,41 @@
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\Video Rental Software.exe.config
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\Video Rental Software.exe
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\Video Rental Software.pdb
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\obj\Debug\Video Rental Software.csprojAssemblyReference.cache
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\obj\Debug\Video_Rental_Software.Properties.Resources.resources
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\obj\Debug\Video Rental Software.csproj.GenerateResource.cache
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\obj\Debug\Video Rental Software.csproj.CoreCompileInputs.cache
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\obj\Debug\Video Rental Software.exe
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\obj\Debug\Video Rental Software.pdb
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\obj\Debug\Video_Rental_Software.Form1.resources
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\obj\Debug\Video_Rental_Software.main.resources
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\Database1.mdf
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\Database1_log.ldf
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\Microsoft.Build.dll
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\System.IO.Compression.dll
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\obj\Debug\Video Rental Software.csproj.CopyComplete
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\obj\Debug\Video_Rental_Software.cust.resources
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\obj\Debug\Video_Rental_Software.movies.resources
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\obj\Debug\Video_Rental_Software.Borrow.resources
+C:\Users\Husnain Awan\source\repos\Video Rental Software\Video Rental Software\obj\Debug\Video_Rental_Software.Find.resources
